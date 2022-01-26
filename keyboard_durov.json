@@ -1,0 +1,20 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Хочу ещё Дурова"
+      },
+      "color": "positive"
+    }],
+	[
+      {
+      "action": {
+        "type": "text",
+        "label": "Выйти в главное меню"
+      },
+      "color": "default"
+    }]
+  ]
+}
