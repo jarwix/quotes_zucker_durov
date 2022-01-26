@@ -1,0 +1,20 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Цитаты Дурова"
+      },
+      "color": "default"
+    }],
+	[
+      {
+      "action": {
+        "type": "text",
+        "label": "Цитаты Цукерберга"
+      },
+      "color": "default"
+    }]
+  ]
+}
